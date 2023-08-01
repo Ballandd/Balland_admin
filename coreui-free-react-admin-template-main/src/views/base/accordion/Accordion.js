@@ -23,6 +23,11 @@ const Accordion = () => {
       label: 'Heading',
       _props: { scope: 'col' },
     },
+    {
+      key: 'heading_3',
+      label: 'Heading',
+      _props: { scope: 'col' },
+    },
   ]
   const items = [
     {
