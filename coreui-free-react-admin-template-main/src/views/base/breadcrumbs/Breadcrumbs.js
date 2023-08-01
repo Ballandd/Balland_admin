@@ -17,7 +17,7 @@ const Breadcrumbs = () => {
       <CCol xs={12}>
         <CCard className="mb-4">
           <CCardHeader>
-            <strong>React Breadcrumb</strong>
+            <strong>jemoog</strong>
           </CCardHeader>
           <CCardBody>
             <p className="text-medium-emphasis small">
